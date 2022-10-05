@@ -16,3 +16,6 @@ dist
 bin
 build
 vendor
+
+# IDEs and Tooling
+.idea
